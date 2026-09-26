@@ -13,7 +13,7 @@ A beginner-friendly practical guide for building a 2-Switch, 6-PC VLAN network i
 
 ---
 
-## 🧪 Lab Overview — 2 Switches, 6 PCs, 3 VLANs
+##  Lab Overview — 2 Switches, 6 PCs, 3 VLANs
 
 ### What You Will Build
 
